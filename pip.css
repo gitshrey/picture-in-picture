@@ -1,0 +1,26 @@
+html{
+    box-sizing: border-box;
+}
+
+
+
+body{
+    font-family: 'Barlow', sans-serif;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.button-container{
+    border: 2px solid black ;
+    
+}
+
+.button-container button{
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px;
+}
